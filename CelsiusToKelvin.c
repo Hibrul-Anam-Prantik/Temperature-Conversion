@@ -1,7 +1,7 @@
 # include <stdio.h>
 
-/*  Write a code that will take a temperature from the user in Fahrenheit scale 
-    and show it in Celsius scale.
+/*  Write a code that will take a temperature from the user in Celsius scale 
+    and show it in Kelvin scale.
     Formula: C/5 = (F - 32)/9 = (k - 273)/5
 */
 
