@@ -10,7 +10,7 @@ int main() {
     printf("Temperature in Fahrenheit scale: ");
     scanf("%f", &tempF);
     tempC = 5 * (tempF - 32)/9;
-    printf("Initial Temperature = %.2f F\n", tempF);
-    printf("Final Temperature: %.2f C\n", tempC);
+    printf("Initial Temperature: %.2f F\n", tempF);
+    printf("Final Temperature  : %.2f C\n", tempC);
     return 0;
 }
